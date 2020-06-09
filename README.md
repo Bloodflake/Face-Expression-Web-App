@@ -24,7 +24,4 @@ for the face detection open cv [haarcascade classifier](https://docs.opencv.org/
 
 for the  face expression recognition [model](https://github.com/Bloodflake/Face-Expression-Web-App/blob/master/Facial_Expression_Training.ipynb)  check jupyter notebook
 
-**architecture of model**
-![model](https://github.com/Bloodflake/Face-Expression-Web-App/blob/master/model.png)
-
 
